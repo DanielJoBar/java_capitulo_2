@@ -2,7 +2,6 @@ package java_capitulo_2;
 
 import java.util.Scanner;
 
-import javax.print.event.PrintEvent;
 
 public class Ejercicio2_4{
     public static void main(String[] args){
