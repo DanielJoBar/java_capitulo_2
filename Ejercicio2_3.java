@@ -1,5 +1,3 @@
-package java_capitulo_2;
-
 public class Ejercicio2_3 {
     public static void main(String[] args){
     String nombre = "DanielJodarBarbero";
@@ -8,5 +6,6 @@ public class Ejercicio2_3 {
     System.out.println(nombre);
     System.out.println(direccion);
     System.out.println(telefono);
+    
     }
 }
