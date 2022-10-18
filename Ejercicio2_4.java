@@ -9,5 +9,6 @@ public class Ejercicio2_4{
     euros = sc.nextFloat();
     pesetas =  euros*166.386 ;
     System.out.print(euros+"€ en pesetas serian : "+(pesetas)+"   ");
+    sc.close();
     }
 }
