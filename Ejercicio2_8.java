@@ -5,7 +5,7 @@ public class Ejercicio2_8 {
         char letra3 = 'c';
         char letra4 = 'd';
         char letra5 = 'e';
-        String  Cadena = (a+"");
-        System.out.println(letra1 + "" + letra2);
+        String  Cadena = (letra1+" "+ letra2 +" "+letra3+" "+letra4+" "+letra5);
+        System.out.println(Cadena);
 }
 }
